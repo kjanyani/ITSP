@@ -1,0 +1,9 @@
+Notes for Code
+http://www.geeksforgeeks.org/gaussian-elimination/
+site to take equation solver from
+
+To do:
+debug why all variables come out the same
+callibrate the camera and store intrinsic and extrinsic parameters
+include the equations to know the trajectory
+finally solve the last equation to give coordinates of dart
