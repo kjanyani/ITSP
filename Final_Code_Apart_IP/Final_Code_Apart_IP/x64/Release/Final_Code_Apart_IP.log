@@ -1,0 +1,17 @@
+﻿  Main.cpp
+c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+Main.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Main.cpp(89): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Main.cpp(96): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Main.cpp(103): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Main.cpp(140): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Main.cpp(172): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  SerialPort.cpp
+  Generating code
+  3 of 416 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Final_Code_Apart_IP.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2017\Projects\Final_Code_Apart_IP\x64\Release\Final_Code_Apart_IP.exe
